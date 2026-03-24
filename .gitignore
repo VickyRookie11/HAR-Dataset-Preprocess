@@ -14,3 +14,4 @@ UniMiB_SHAR/UniMiB-SHAR
 .DS_Store
 *.names
 *.pdf
+.venv
