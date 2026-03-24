@@ -28,7 +28,7 @@ def UNIMIB(dataset_dir='./UniMiB-SHAR/data', SPLIT_RATE=(8, 2), VALIDATION_SUBJE
     else:
         print('\n---------- 采用【平均法】分割验证集，训练集与验证集样本数比为:%s ----------\n' % (str(SPLIT_RATE)))
 
-    # 下载数据集[由于unimib数据集无法直接访问下载，这里我把unimib数据集上传到gitcdoe进行访问clone]
+    # 下载数据集[由于unimib数据集无法直接访问下载，这里我把unimib数据集上传到gitcode进行访问clone]
     download_dataset(
         dataset_name='UniMiB-SHAR',
         file_url='https://gitcode.net/m0_52161961/UniMiB-SHAR.git', 

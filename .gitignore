@@ -11,7 +11,9 @@ WISDM/WISDM_ar_v1.1
 OPPORTUNITY/OpportunityUCIDataset
 UniMiB_SHAR/UniMiB-SHAR
 *.zip
+*.txt
 .DS_Store
 *.names
 *.pdf
 .venv
+setting.json
